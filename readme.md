@@ -14,7 +14,7 @@ O objetivo desse projeto é criar um assistente de personal trainer que seja cap
 
 O usuário fornece informações como:
 
-- [b]Biotipo Corporal:[\b] Isso pode incluir categorias como ectomorfo, mesomorfo ou endomorfo.
+- Biotipo Corporal: Isso pode incluir categorias como ectomorfo, mesomorfo ou endomorfo.
 Disponibilidade de Tempo: Quanto tempo o usuário pode dedicar aos treinos (por dia ou por semana).
 Preferências de Exercícios: Quais tipos de exercícios o usuário gosta ou prefere (por exemplo, musculação, corrida, ioga, etc.).
 

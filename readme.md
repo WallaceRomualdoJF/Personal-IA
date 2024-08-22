@@ -104,11 +104,8 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
-
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 2 dia               | Treino AB            |
-
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 2 dia               | Treino AB                   |
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
-
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.

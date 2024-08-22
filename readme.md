@@ -109,7 +109,7 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 | <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
-- **AB**: Treino é muito comum para iniciantes ou então, para pessoas em início do processo de periodização.Usado bastante o treino A/B em uma fase pré-básica da periodização, geralmente após um período sem treinos resistidos.
+- **AB**: Divisão do Treino é muito comum para iniciantes ou então, para pessoas em início do processo de periodização.Usado bastante o treino A/B em uma fase pré-básica da periodização, geralmente após um período sem treinos resistidos.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
 - **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
